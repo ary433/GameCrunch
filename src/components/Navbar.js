@@ -21,7 +21,7 @@ import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 
 const pages = [
   { 
-    name: 'Wallet Analytics', 
+    name: 'Wallet Gaming', 
     path: '/walletgaming',
     icon: <AccountBalanceWalletIcon sx={{ mr: 1 }} />,
     priority: 1

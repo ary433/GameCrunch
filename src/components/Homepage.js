@@ -21,14 +21,7 @@ const Homepage = () => {
   const theme = useTheme();
 
   const features = [
-    {
-      title: 'Gaming Trends',
-      description: 'Track real-time gaming metrics, analyze user engagement patterns, and monitor performance trends across games.',
-      icon: <TrendingUpIcon sx={{ fontSize: 40 }} />,
-      to: '/gamingtrend',
-      color: theme.palette.primary.main,
-      priority: 1
-    },
+    
     {
       title: 'Wallet Gaming',
       description: 'Monitor gaming wallets, track transaction metrics, and analyze user behavior across different games.',
@@ -36,7 +29,15 @@ const Homepage = () => {
       to: '/walletgaming',
       color: theme.palette.secondary.main,
       priority: 2
+    },{
+      title: 'Gaming Trends',
+      description: 'Track real-time gaming metrics, analyze user engagement patterns, and monitor performance trends across games.',
+      icon: <TrendingUpIcon sx={{ fontSize: 40 }} />,
+      to: '/gamingtrend',
+      color: theme.palette.primary.main,
+      priority: 1
     },
+    
     {
       title: 'Gaming Collections',
       description: 'Discover trending gaming collections, monitor market performance, and track collection metrics.',
