@@ -1,8 +1,7 @@
 # GameCrunch - Web3 Gaming Analytics Dashboard
 
-![GameCrunch Logo](public/logo192.png)
 
-GameCrunch is a modern, responsive web application that provides real-time analytics and insights for Web3 gaming. Track user engagement, monitor game activity, and analyze blockchain gaming trends all in one place.
+GameCrunch is a modern, responsive web application that provides real-time analytics and insights using **bitsCrunch APIs** for Web3 gaming. Track user engagement, monitor game activity, and analyze blockchain gaming trends all in one place.
 
 ## Features
 
@@ -28,13 +27,6 @@ GameCrunch is a modern, responsive web application that provides real-time analy
   - Multi-contract comparison
   - Performance metrics
 
-## Tech Stack
-
-- React.js
-- Material-UI (MUI)
-- Chart.js
-- Web3 APIs
-- RESTful Services
 
 ## Installation
 
@@ -85,30 +77,8 @@ The application can be configured through the following environment variables:
    - Track growth metrics
    - Monitor user activity
 
-## Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- [UnleashNFTs API](https://api.unleashnfts.com) for providing gaming data
-- Material-UI team for the amazing component library
-- Chart.js team for visualization capabilities
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact our support team at support@gamecrunch.com.
-
----
-
-Made with by the GameCrunch Team
