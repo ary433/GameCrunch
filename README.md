@@ -32,7 +32,7 @@ GameCrunch is a modern, responsive web application that provides real-time analy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gamecrunch.git
+https://github.com/ary433/GameCrunch
 cd gamecrunch
 ```
 
