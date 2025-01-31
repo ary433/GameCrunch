@@ -60,22 +60,6 @@ The application can be configured through the following environment variables:
 - `REACT_APP_API_KEY`: Your API key for data access
 - `REACT_APP_API_URL`: Base URL for the API (defaults to production)
 
-## Usage
-
-1. **Dashboard Overview**
-   - View key metrics at a glance
-   - Monitor real-time trends
-   - Track user engagement
-
-2. **Contract Analysis**
-   - Select specific contracts
-   - Compare performance metrics
-   - Analyze historical data
-
-3. **Trend Analysis**
-   - View hourly/daily trends
-   - Track growth metrics
-   - Monitor user activity
 
 
 ## License
